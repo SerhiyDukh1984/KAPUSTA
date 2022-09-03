@@ -1,0 +1,141 @@
+{
+  "general": {
+    "reports": "Reports",
+    "currencyName": "usd"
+  },
+
+  "registration": {
+    "googleTitle": "You can log in with your Google Account:",
+    "mainTitle": "Or log in using an email and password, after registering:",
+    "email": "Email:",
+    "password": "Password:",
+    "enter": "LOG IN",
+    "registration": "REGISTRATION",
+    "required": "This is a required field",
+    "emailErr": "Invalid email",
+    "lengthErr": "Min length 7",
+    "registrationInfo": "Please, enter correct data!",
+    "registrationErr1": "Sorry, but your data isn't correct. Try again",
+    "registrationErr2": "Sorry, but provided email already exists. If it's your account, click log in",
+    "registrationErr3": "Sorry, but email doesn't exist / password is wrong"
+  },
+
+  "logout": {
+    "exit": "Exit",
+    "modalInfo": "Do you really want to leave?",
+    "yes": "YES",
+    "no": "NO"
+  },
+
+  "balance": {
+    "inputInfo": "'Please, enter number > 0'",
+    "balanceTitle": "Balance",
+    "currency": "USD",
+    "confirm": "CONFIRM"
+  },
+
+  "nav": {
+    "mainPage": "Main page",
+    "expenses": "Expenses",
+    "income": "Income"
+  },
+
+  "transactions": {
+    "categoryInfo": "Product category",
+    "input": "Input",
+    "clear": "Clear",
+    "prodDescr": "Product description",
+    "prodCateg": "Product category",
+    "date": "DATE",
+    "descr": "DESCRIPTION",
+    "categ": "CATEGORY",
+    "sum": "SUM"
+  },
+
+  "summary": {
+    "summary": "Summary"
+  },
+
+  "categories": {
+    "noInfo": "Sorry, you don't have operations for this period"
+  },
+
+  "reports": {
+    "period": "Current Period:",
+    "expenses": "Expenses:",
+    "income": "Income:"
+  },
+
+  "pagination": {
+    "expenses": "Expenses",
+    "income": "Income"
+  },
+
+  "months": {
+    "Январь": "January",
+    "Февраль": "February",
+    "Март": "March",
+    "Апрель": "April",
+    "Май": "May",
+    "Июнь": "June",
+    "Июль": "July",
+    "Август": "August",
+    "Сентябрь": "September",
+    "Октябрь": "October",
+    "Ноябрь": "November",
+    "Декабрь": "December"
+  },
+
+  "monthsPag": {
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  },
+
+  "expensesCategArray": [
+    { "value": "Транспорт", "label": "Transport" },
+    { "value": "Продукты", "label": "Products" },
+    { "value": "Здоровье", "label": "Health" },
+    { "value": "Алкоголь", "label": "Alcohol" },
+    { "value": "Развлечения", "label": "Entertainment" },
+    { "value": "Всё для дома", "label": "Housing" },
+    { "value": "Техника", "label": "Technique" },
+    { "value": "Коммуналка и связь", "label": "Communal, communication" },
+    { "value": "Спорт и хобби", "label": "Sports, hobbies" },
+    { "value": "Образование", "label": "Education" },
+    { "value": "Прочее", "label": "Other" }
+  ],
+
+  "incomeCategArray": [
+    { "value": "З/П", "label": "Salary" },
+    { "value": "Доп. доход", "label": "Add. income" }
+  ],
+
+  "expenseReport": {
+    "Транспорт": { "title": "Transport", "id": "icon-transport" },
+    "Продукты": { "title": "Products", "id": "icon-products" },
+    "Здоровье": { "title": "Health", "id": "icon-health" },
+    "Алкоголь": { "title": "Alcohol", "id": "icon-alcohol" },
+    "Развлечения": { "title": "Entertainment", "id": "icon-entertainment" },
+    "Всё для дома": { "title": "Housing", "id": "icon-housing" },
+    "Техника": { "title": "Technique", "id": "icon-technique" },
+    "Коммуналка и связь": {
+      "title": "Communal, communication",
+      "id": "icon-communal, communication"
+    },
+    "Спорт и хобби": { "title": "Sports, hobbies", "id": "icon-sports, hobbies" },
+    "Образование": { "title": "Education", "id": "icon-education" },
+    "Прочее": { "title": "Other", "id": "icon-other" }
+  },
+
+  "incomeReport": { "З/П": "Salary", "Доп. доход": "Add. income" }
+}
